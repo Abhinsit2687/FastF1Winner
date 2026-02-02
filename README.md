@@ -36,7 +36,7 @@ This project is open-source and available under the MIT License.
 - Optimize the ML model with hyperparameter tuning.
 
 ## Author
-Akshana Prasad
+Abhishek Gupta
 ![notebook](https://github.com/user-attachments/assets/2d9dfaeb-e763-4143-b057-d1ba396b167c)
 ![f1](https://github.com/user-attachments/assets/e6663237-a2e6-421b-abb7-66678a977337)
 
